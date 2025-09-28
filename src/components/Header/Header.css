@@ -1,8 +1,11 @@
-.h-wrapper {
+.h-wrapper{
   z-index: 99;
   position: sticky;
   top: 0;
+  background: var(--black);
+  color: white; 
 }
+
 .h-container {
   padding-top: 1rem;
   padding-bottom: 1rem;

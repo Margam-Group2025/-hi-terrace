@@ -11,6 +11,7 @@ function App() {
     <>
      <div className='App'>
      <div>
+      
        <div className='white-gradiant'>
          <Header/>
          <Hero/>
